@@ -1,0 +1,10 @@
+pathlib
+pandas
+streamlit
+requests
+bs4
+datetime
+scikit-learn
+numpy
+fontTools
+altair
